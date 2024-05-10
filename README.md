@@ -1,4 +1,5 @@
 Get_Next_Line 📖
+
 Get_Next_Line is a C project designed to help you easily read a line from a file descriptor until you hit a newline character or reach the end of the file. 
 This functionality is extremely useful in numerous programming scenarios, especially when parsing text data line by line.
 
