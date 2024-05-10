@@ -17,5 +17,7 @@ Include get_next_line.h in your C files and use the get_next_line(int fd) functi
 ⚙️ Recommendations
 It's recommended to test this project using the various get_next_line testers available on GitHub to ensure it functions correctly with your setups.
 Adjust BUFFER_SIZE in get_next_line.h according to your needs for optimal performance.
+
+
 📝 License
 This project is open-source and available under standard MIT License.
